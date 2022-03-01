@@ -1,0 +1,311 @@
+{
+  "tag": "#VJ2Y0GUC",
+  "name": "Sniputtajat",
+  "description": "SÄÄNNÖT: Älä spämmi pelipyyntöjä, älä kiusaa. TOP 3 saa ylennyksen!",
+  "type": "open",
+  "badgeId": 8000013,
+  "requiredTrophies": 24000,
+  "trophies": 811501,
+  "members": [
+    {
+      "tag": "#8RQ29UY8",
+      "name": "Saalistaja",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 36066,
+      "icon": {
+        "id": 28000078
+      }
+    },
+    {
+      "tag": "#UJ8RYCPY",
+      "name": "illi2004",
+      "nameColor": "0xffff9727",
+      "role": "senior",
+      "trophies": 31670,
+      "icon": {
+        "id": 28000067
+      }
+    },
+    {
+      "tag": "#22QJYVU9C",
+      "name": "Juhis2",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 31050,
+      "icon": {
+        "id": 28000079
+      }
+    },
+    {
+      "tag": "#282PQURYC",
+      "name": "miniwinner",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 29570,
+      "icon": {
+        "id": 28000009
+      }
+    },
+    {
+      "tag": "#ULRGLQGP",
+      "name": "itai7",
+      "nameColor": "0xff4ddba2",
+      "role": "senior",
+      "trophies": 29395,
+      "icon": {
+        "id": 28000074
+      }
+    },
+    {
+      "tag": "#9QJUGRC9",
+      "name": "aarnenb",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 28564,
+      "icon": {
+        "id": 28000024
+      }
+    },
+    {
+      "tag": "#8QV9J9YY",
+      "name": "Makke",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 28413,
+      "icon": {
+        "id": 28000017
+      }
+    },
+    {
+      "tag": "#V9JQPVVQ",
+      "name": "DARK AVENGER",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 28324,
+      "icon": {
+        "id": 28000021
+      }
+    },
+    {
+      "tag": "#YP2VVULQP",
+      "name": "YT Pepsi Max",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 28110,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#PYP0UL0C",
+      "name": "L A R E T S U",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 27794,
+      "icon": {
+        "id": 28000081
+      }
+    },
+    {
+      "tag": "#9C9PGYP8Y",
+      "name": "pokemon",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 27727,
+      "icon": {
+        "id": 28000081
+      }
+    },
+    {
+      "tag": "#2CYPG9JGQ",
+      "name": "Tonninseteli YT",
+      "nameColor": "0xfff05637",
+      "role": "senior",
+      "trophies": 27136,
+      "icon": {
+        "id": 28000067
+      }
+    },
+    {
+      "tag": "#PVQY9YRVP",
+      "name": "leva pro",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 26675,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#2LRPU82LP",
+      "name": "olee",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 26500,
+      "icon": {
+        "id": 28000081
+      }
+    },
+    {
+      "tag": "#9V2VQG202",
+      "name": "veikka pro",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 26165,
+      "icon": {
+        "id": 28000078
+      }
+    },
+    {
+      "tag": "#29UC0PR88",
+      "name": "Okko",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 26134,
+      "icon": {
+        "id": 28000078
+      }
+    },
+    {
+      "tag": "#YL802VLR8",
+      "name": "Arttu 21",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 26093,
+      "icon": {
+        "id": 28000080
+      }
+    },
+    {
+      "tag": "#9PRR9RU0C",
+      "name": "venni pro",
+      "nameColor": "0xffff9727",
+      "role": "member",
+      "trophies": 26035,
+      "icon": {
+        "id": 28000057
+      }
+    },
+    {
+      "tag": "#J0G2PP02",
+      "name": "Vickty",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 25912,
+      "icon": {
+        "id": 28000078
+      }
+    },
+    {
+      "tag": "#8CRYP8RL2",
+      "name": "ihminen",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 25687,
+      "icon": {
+        "id": 28000073
+      }
+    },
+    {
+      "tag": "#2PPPRLL2Q",
+      "name": "олишер",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 25492,
+      "icon": {
+        "id": 28000079
+      }
+    },
+    {
+      "tag": "#Y2UGGULC",
+      "name": "❄️Julpu❄️",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 25476,
+      "icon": {
+        "id": 28000079
+      }
+    },
+    {
+      "tag": "#P9GVJY8QP",
+      "name": "Yeetmoottori",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 25239,
+      "icon": {
+        "id": 28000073
+      }
+    },
+    {
+      "tag": "#VC88G08Y",
+      "name": "roni back",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 25144,
+      "icon": {
+        "id": 28000081
+      }
+    },
+    {
+      "tag": "#29U2RJCGR",
+      "name": "makkara",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 25062,
+      "icon": {
+        "id": 28000023
+      }
+    },
+    {
+      "tag": "#88PCJ2CCQ",
+      "name": "lenzka youtube",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 24833,
+      "icon": {
+        "id": 28000014
+      }
+    },
+    {
+      "tag": "#8LJV99QG8",
+      "name": "mastermcpvp",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 24412,
+      "icon": {
+        "id": 28000037
+      }
+    },
+    {
+      "tag": "#22RCQPG9R",
+      "name": "Snipux",
+      "nameColor": "0xff4ddba2",
+      "role": "president",
+      "trophies": 24342,
+      "icon": {
+        "id": 28000067
+      }
+    },
+    {
+      "tag": "#UG2VUPCL",
+      "name": "Hugo",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 24295,
+      "icon": {
+        "id": 28000033
+      }
+    },
+    {
+      "tag": "#PR8RUJU09",
+      "name": "Ropsu",
+      "nameColor": "0xfff9775d",
+      "role": "member",
+      "trophies": 24186,
+      "icon": {
+        "id": 28000014
+      }
+    }
+  ]
+}

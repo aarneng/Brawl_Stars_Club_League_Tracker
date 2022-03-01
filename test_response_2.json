@@ -1,0 +1,1874 @@
+{
+  "items": [
+    {
+      "battleTime": "20220216T194242.000Z",
+      "event": {
+        "id": 15000019,
+        "mode": "heist",
+        "map": "Safe Zone"
+      },
+      "battle": {
+        "mode": "heist",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 65,
+        "starPlayer": {
+          "tag": "#290PCV00V",
+          "name": "♡︎|ʙʀɪʟɪᴀɴᴛ",
+          "brawler": {
+            "id": 16000007,
+            "name": "JESSIE",
+            "power": 9,
+            "trophies": 6
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#9QJUGRC9",
+              "name": "aarnenb",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 6
+              }
+            },
+            {
+              "tag": "#L0V0RY0CY",
+              "name": "-mosquit",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 7,
+                "trophies": 6
+              }
+            },
+            {
+              "tag": "#290PCV00V",
+              "name": "♡︎|ʙʀɪʟɪᴀɴᴛ",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 9,
+                "trophies": 6
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8UQGPRGRL",
+              "name": "❤️Ольчик❤️",
+              "brawler": {
+                "id": 16000053,
+                "name": "LOLA",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2VQ9RLU29",
+              "name": "❄WooD❄",
+              "brawler": {
+                "id": 16000003,
+                "name": "BROCK",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#Y909L0VJY",
+              "name": "Аксион",
+              "brawler": {
+                "id": 16000018,
+                "name": "DARRYL",
+                "power": 10,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T194122.000Z",
+      "event": {
+        "id": 15000019,
+        "mode": "heist",
+        "map": "Safe Zone"
+      },
+      "battle": {
+        "mode": "heist",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 74,
+        "starPlayer": null,
+        "teams": [
+          [
+            {
+              "tag": "#9QJUGRC9",
+              "name": "aarnenb",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 6
+              }
+            },
+            {
+              "tag": "#L0V0RY0CY",
+              "name": "-mosquit",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 7,
+                "trophies": 6
+              }
+            },
+            {
+              "tag": "#290PCV00V",
+              "name": "♡︎|ʙʀɪʟɪᴀɴᴛ",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 9,
+                "trophies": 6
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8UQGPRGRL",
+              "name": "❤️Ольчик❤️",
+              "brawler": {
+                "id": 16000053,
+                "name": "LOLA",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2VQ9RLU29",
+              "name": "❄WooD❄",
+              "brawler": {
+                "id": 16000003,
+                "name": "BROCK",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#Y909L0VJY",
+              "name": "Аксион",
+              "brawler": {
+                "id": 16000018,
+                "name": "DARRYL",
+                "power": 10,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T193955.000Z",
+      "event": {
+        "id": 15000019,
+        "mode": "heist",
+        "map": "Safe Zone"
+      },
+      "battle": {
+        "mode": "heist",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 126,
+        "starPlayer": null,
+        "teams": [
+          [
+            {
+              "tag": "#9QJUGRC9",
+              "name": "aarnenb",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 11,
+                "trophies": 6
+              }
+            },
+            {
+              "tag": "#L0V0RY0CY",
+              "name": "-mosquit",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 7,
+                "trophies": 6
+              }
+            },
+            {
+              "tag": "#290PCV00V",
+              "name": "♡︎|ʙʀɪʟɪᴀɴᴛ",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 9,
+                "trophies": 6
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#8UQGPRGRL",
+              "name": "❤️Ольчик❤️",
+              "brawler": {
+                "id": 16000053,
+                "name": "LOLA",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#2VQ9RLU29",
+              "name": "❄WooD❄",
+              "brawler": {
+                "id": 16000003,
+                "name": "BROCK",
+                "power": 10,
+                "trophies": 7
+              }
+            },
+            {
+              "tag": "#Y909L0VJY",
+              "name": "Аксион",
+              "brawler": {
+                "id": 16000018,
+                "name": "DARRYL",
+                "power": 10,
+                "trophies": 7
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T183140.000Z",
+      "event": {
+        "id": 15000082,
+        "mode": "bounty",
+        "map": "Layer Cake"
+      },
+      "battle": {
+        "mode": "bounty",
+        "type": "teamRanked",
+        "result": "victory",
+        "duration": 120,
+        "trophyChange": 7,
+        "starPlayer": {
+          "tag": "#P9Q2V2Q29",
+          "name": "😎БЛАТНОЙ ПРО😎",
+          "brawler": {
+            "id": 16000019,
+            "name": "PENNY",
+            "power": 9,
+            "trophies": 13
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#2VYLR0RJ0",
+              "name": "Maxai",
+              "brawler": {
+                "id": 16000053,
+                "name": "LOLA",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#9RLRYUVC",
+              "name": "чепушила",
+              "brawler": {
+                "id": 16000022,
+                "name": "TICK",
+                "power": 7,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#2V9Q2QC8J",
+              "name": "вольт",
+              "brawler": {
+                "id": 16000029,
+                "name": "BEA",
+                "power": 4,
+                "trophies": 13
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#P9Q2V2Q29",
+              "name": "😎БЛАТНОЙ ПРО😎",
+              "brawler": {
+                "id": 16000019,
+                "name": "PENNY",
+                "power": 9,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#9QJUGRC9",
+              "name": "aarnenb",
+              "brawler": {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#PJYLRPYG",
+              "name": "Лия",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 10,
+                "trophies": 13
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T182926.000Z",
+      "event": {
+        "id": 15000082,
+        "mode": "bounty",
+        "map": "Layer Cake"
+      },
+      "battle": {
+        "mode": "bounty",
+        "type": "teamRanked",
+        "result": "victory",
+        "duration": 120,
+        "starPlayer": null,
+        "teams": [
+          [
+            {
+              "tag": "#2VYLR0RJ0",
+              "name": "Maxai",
+              "brawler": {
+                "id": 16000053,
+                "name": "LOLA",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#9RLRYUVC",
+              "name": "чепушила",
+              "brawler": {
+                "id": 16000022,
+                "name": "TICK",
+                "power": 7,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#2V9Q2QC8J",
+              "name": "вольт",
+              "brawler": {
+                "id": 16000029,
+                "name": "BEA",
+                "power": 4,
+                "trophies": 13
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#P9Q2V2Q29",
+              "name": "😎БЛАТНОЙ ПРО😎",
+              "brawler": {
+                "id": 16000019,
+                "name": "PENNY",
+                "power": 9,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#9QJUGRC9",
+              "name": "aarnenb",
+              "brawler": {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#PJYLRPYG",
+              "name": "Лия",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 10,
+                "trophies": 13
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T182601.000Z",
+      "event": {
+        "id": 15000294,
+        "mode": "hotZone",
+        "map": "Split"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "teamRanked",
+        "result": "victory",
+        "duration": 61,
+        "trophyChange": 7,
+        "starPlayer": {
+          "tag": "#9QJUGRC9",
+          "name": "aarnenb",
+          "brawler": {
+            "id": 16000017,
+            "name": "TARA",
+            "power": 11,
+            "trophies": 13
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#LQVP8J99Y",
+              "name": "Anton",
+              "brawler": {
+                "id": 16000000,
+                "name": "SHELLY",
+                "power": 10,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#P2UQJJ08",
+              "name": "mocna kasia",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#Q8C2C9Q9C",
+              "name": "zarte",
+              "brawler": {
+                "id": 16000049,
+                "name": "BUZZ",
+                "power": 7,
+                "trophies": 13
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#QLYLVUVQ",
+              "name": "EvilGame",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 8,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#9QJUGRC9",
+              "name": "aarnenb",
+              "brawler": {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#92J2R2LYP",
+              "name": "⚡️LEGENDE⚡️",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 9,
+                "trophies": 13
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T182446.000Z",
+      "event": {
+        "id": 15000294,
+        "mode": "hotZone",
+        "map": "Split"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "teamRanked",
+        "result": "defeat",
+        "duration": 92,
+        "starPlayer": null,
+        "teams": [
+          [
+            {
+              "tag": "#LQVP8J99Y",
+              "name": "Anton",
+              "brawler": {
+                "id": 16000000,
+                "name": "SHELLY",
+                "power": 10,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#P2UQJJ08",
+              "name": "mocna kasia",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#Q8C2C9Q9C",
+              "name": "zarte",
+              "brawler": {
+                "id": 16000049,
+                "name": "BUZZ",
+                "power": 7,
+                "trophies": 13
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#QLYLVUVQ",
+              "name": "EvilGame",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 8,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#9QJUGRC9",
+              "name": "aarnenb",
+              "brawler": {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#92J2R2LYP",
+              "name": "⚡️LEGENDE⚡️",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 9,
+                "trophies": 13
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T182259.000Z",
+      "event": {
+        "id": 15000294,
+        "mode": "hotZone",
+        "map": "Split"
+      },
+      "battle": {
+        "mode": "hotZone",
+        "type": "teamRanked",
+        "result": "victory",
+        "duration": 69,
+        "starPlayer": null,
+        "teams": [
+          [
+            {
+              "tag": "#LQVP8J99Y",
+              "name": "Anton",
+              "brawler": {
+                "id": 16000000,
+                "name": "SHELLY",
+                "power": 10,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#P2UQJJ08",
+              "name": "mocna kasia",
+              "brawler": {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#Q8C2C9Q9C",
+              "name": "zarte",
+              "brawler": {
+                "id": 16000049,
+                "name": "BUZZ",
+                "power": 7,
+                "trophies": 13
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#QLYLVUVQ",
+              "name": "EvilGame",
+              "brawler": {
+                "id": 16000007,
+                "name": "JESSIE",
+                "power": 8,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#9QJUGRC9",
+              "name": "aarnenb",
+              "brawler": {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#92J2R2LYP",
+              "name": "⚡️LEGENDE⚡️",
+              "brawler": {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 9,
+                "trophies": 13
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T175548.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 80,
+        "players": [
+          {
+            "tag": "#9J9Q99Y00",
+            "name": "DANIK(CZ)",
+            "brawlers": [
+              {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 4,
+                "trophies": 228,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 8,
+                "trophies": 503,
+                "trophyChange": -2
+              },
+              {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 9,
+                "trophies": 499,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 395,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 504,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 424,
+                "trophyChange": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T175413.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 91,
+        "players": [
+          {
+            "tag": "#9PG2YQ9JQ",
+            "name": "Miraç",
+            "brawlers": [
+              {
+                "id": 16000006,
+                "name": "BARLEY",
+                "power": 7,
+                "trophies": 412,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000018,
+                "name": "DARRYL",
+                "power": 8,
+                "trophies": 485,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 7,
+                "trophies": 494,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 393,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 501,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 421,
+                "trophyChange": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T175222.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 80,
+        "players": [
+          {
+            "tag": "#8PV8LRYQL",
+            "name": "leon",
+            "brawlers": [
+              {
+                "id": 16000038,
+                "name": "SURGE",
+                "power": 8,
+                "trophies": 341,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000029,
+                "name": "BEA",
+                "power": 9,
+                "trophies": 500,
+                "trophyChange": -2
+              },
+              {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 9,
+                "trophies": 508,
+                "trophyChange": -2
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 390,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 499,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 418,
+                "trophyChange": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T175049.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 77,
+        "players": [
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 387,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 496,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 416,
+                "trophyChange": 2
+              }
+            ]
+          },
+          {
+            "tag": "#PQ2RLQY8J",
+            "name": "Артем",
+            "brawlers": [
+              {
+                "id": 16000040,
+                "name": "AMBER",
+                "power": 1,
+                "trophies": 68,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000001,
+                "name": "COLT",
+                "power": 8,
+                "trophies": 500,
+                "trophyChange": -2
+              },
+              {
+                "id": 16000049,
+                "name": "BUZZ",
+                "power": 3,
+                "trophies": 45,
+                "trophyChange": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T174917.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 42,
+        "players": [
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 385,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 493,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 413,
+                "trophyChange": 3
+              }
+            ]
+          },
+          {
+            "tag": "#8C0QUUV2P",
+            "name": "cebula janusza",
+            "brawlers": [
+              {
+                "id": 16000027,
+                "name": "8-BIT",
+                "power": 9,
+                "trophies": 495,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000001,
+                "name": "COLT",
+                "power": 9,
+                "trophies": 467,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000002,
+                "name": "BULL",
+                "power": 9,
+                "trophies": 495,
+                "trophyChange": -1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T174820.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 68,
+        "players": [
+          {
+            "tag": "#9JRG9PPUR",
+            "name": "leon",
+            "brawlers": [
+              {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 6,
+                "trophies": 486,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000053,
+                "name": "LOLA",
+                "power": 4,
+                "trophies": 126,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000038,
+                "name": "SURGE",
+                "power": 7,
+                "trophies": 434,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 382,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 490,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 411,
+                "trophyChange": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T174658.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 114,
+        "players": [
+          {
+            "tag": "#P2CR299LC",
+            "name": "(блет)матвеи",
+            "brawlers": [
+              {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 7,
+                "trophies": 379,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000016,
+                "name": "PAM",
+                "power": 9,
+                "trophies": 499,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000040,
+                "name": "AMBER",
+                "power": 6,
+                "trophies": 223,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 379,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 488,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 408,
+                "trophyChange": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T174449.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 61,
+        "players": [
+          {
+            "tag": "#2UGR0889C",
+            "name": "читер2010",
+            "brawlers": [
+              {
+                "id": 16000034,
+                "name": "JACKY",
+                "power": 8,
+                "trophies": 494,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000012,
+                "name": "CROW",
+                "power": 10,
+                "trophies": 428,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 8,
+                "trophies": 307,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 376,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 485,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 406,
+                "trophyChange": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T172749.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 127,
+        "players": [
+          {
+            "tag": "#82LPQLLPU",
+            "name": "AQW|Brok_egr",
+            "brawlers": [
+              {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 5,
+                "trophies": 417,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000046,
+                "name": "BELLE",
+                "power": 5,
+                "trophies": 426,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000042,
+                "name": "BYRON",
+                "power": 6,
+                "trophies": 472,
+                "trophyChange": 3
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 377,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 486,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 407,
+                "trophyChange": -1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T172528.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 52,
+        "players": [
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 374,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 484,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 404,
+                "trophyChange": 3
+              }
+            ]
+          },
+          {
+            "tag": "#8L8V0JQCR",
+            "name": "лега",
+            "brawlers": [
+              {
+                "id": 16000029,
+                "name": "BEA",
+                "power": 7,
+                "trophies": 375,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000047,
+                "name": "SQUEAK",
+                "power": 1,
+                "trophies": 71,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 7,
+                "trophies": 499,
+                "trophyChange": -1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T172419.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 86,
+        "players": [
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 371,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 481,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 402,
+                "trophyChange": 2
+              }
+            ]
+          },
+          {
+            "tag": "#9GY9UYJ8J",
+            "name": "briosa",
+            "brawlers": [
+              {
+                "id": 16000045,
+                "name": "STU",
+                "power": 6,
+                "trophies": 467,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000049,
+                "name": "BUZZ",
+                "power": 6,
+                "trophies": 312,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000046,
+                "name": "BELLE",
+                "power": 6,
+                "trophies": 293,
+                "trophyChange": -1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T172226.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 44,
+        "players": [
+          {
+            "tag": "#2QYRU2UVC",
+            "name": "boutchou",
+            "brawlers": [
+              {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "power": 8,
+                "trophies": 458,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000014,
+                "name": "BO",
+                "power": 8,
+                "trophies": 454,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000043,
+                "name": "EDGAR",
+                "power": 7,
+                "trophies": 460,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 369,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 478,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 399,
+                "trophyChange": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T165335.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 57,
+        "players": [
+          {
+            "tag": "#9JRUUP88R",
+            "name": "ludo",
+            "brawlers": [
+              {
+                "id": 16000002,
+                "name": "BULL",
+                "power": 9,
+                "trophies": 445,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 7,
+                "trophies": 183,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 6,
+                "trophies": 461,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 366,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 475,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 397,
+                "trophyChange": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T165223.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 43,
+        "players": [
+          {
+            "tag": "#2CYPPQ802",
+            "name": "ДЕНИС",
+            "brawlers": [
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 6,
+                "trophies": 441,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000006,
+                "name": "BARLEY",
+                "power": 9,
+                "trophies": 480,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000004,
+                "name": "RICO",
+                "power": 6,
+                "trophies": 481,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 364,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 472,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 394,
+                "trophyChange": 3
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T165125.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 90,
+        "players": [
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 361,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 469,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 392,
+                "trophyChange": 2
+              }
+            ]
+          },
+          {
+            "tag": "#8V0YR2R02",
+            "name": "juliproestelar",
+            "brawlers": [
+              {
+                "id": 16000041,
+                "name": "LOU",
+                "power": 7,
+                "trophies": 452,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000049,
+                "name": "BUZZ",
+                "power": 7,
+                "trophies": 313,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 7,
+                "trophies": 396,
+                "trophyChange": -1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T164937.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 73,
+        "players": [
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 358,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 467,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 389,
+                "trophyChange": 3
+              }
+            ]
+          },
+          {
+            "tag": "#9V9JJU220",
+            "name": ".deliyizbiz.",
+            "brawlers": [
+              {
+                "id": 16000014,
+                "name": "BO",
+                "power": 7,
+                "trophies": 464,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000028,
+                "name": "SANDY",
+                "power": 7,
+                "trophies": 214,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000003,
+                "name": "BROCK",
+                "power": 7,
+                "trophies": 461,
+                "trophyChange": -1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20220216T164809.000Z",
+      "event": {
+        "id": 15000469,
+        "mode": "duels",
+        "map": "TIGER TRAP"
+      },
+      "battle": {
+        "mode": "duels",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 109,
+        "players": [
+          {
+            "tag": "#2U0C9LR28",
+            "name": "Kirua_fr",
+            "brawlers": [
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 458,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000039,
+                "name": "COLETTE",
+                "power": 5,
+                "trophies": 348,
+                "trophyChange": -1
+              },
+              {
+                "id": 16000028,
+                "name": "SANDY",
+                "power": 5,
+                "trophies": 334,
+                "trophyChange": -1
+              }
+            ]
+          },
+          {
+            "tag": "#9QJUGRC9",
+            "name": "aarnenb",
+            "brawlers": [
+              {
+                "id": 16000054,
+                "name": "FANG",
+                "power": 9,
+                "trophies": 356,
+                "trophyChange": 2
+              },
+              {
+                "id": 16000051,
+                "name": "ASH",
+                "power": 9,
+                "trophies": 464,
+                "trophyChange": 3
+              },
+              {
+                "id": 16000048,
+                "name": "GROM",
+                "power": 7,
+                "trophies": 386,
+                "trophyChange": 3
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}
